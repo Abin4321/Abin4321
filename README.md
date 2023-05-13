@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Abin4321
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I'm Abin Bijoy 👋
 
-<!---
-Abin4321/Abin4321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+I am currently pursuing my 2nd year B.Tech in Computer Science at Jyothi Engineering College. My primary interests lie in software development, particularly in the fields of web and mobile app development. I am also passionate about learning new technologies and exploring new ways to solve problems.
+
+Skills
+Programming languages: C++, Python, Java, JavaScript
+Web development: HTML, CSS, React, Node.js
+Mobile app development: Android Studio, Flutter
+Database management: MySQL, MongoDB
+Other tools: Git, Linux
+
+Projects
+Project 1: A web application that allows users to create and share recipes.
+Project 2: A mobile app that helps users manage their daily tasks and schedule.
+Project 3: An e-commerce website that allows users to buy and sell products online.
+
+Contact Me
+Email: abin.cse21@jecc.ac.in
+LinkedIn: https://www.linkedin.com/in/abin-bijoy-8b71201a6/
+GitHub: https://github.com/Abin4321
+Feel free to reach out to me if you have any questions or want to collaborate on a project!
