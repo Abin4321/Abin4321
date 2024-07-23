@@ -15,8 +15,7 @@ Project 1: A web application that allows users to create and share recipes.
 Project 2: A mobile app that helps users manage their daily tasks and schedule.
 Project 3: An e-commerce website that allows users to buy and sell products online.
 
-Contact Me
+Contact
 Email: abin.cse21@jecc.ac.in
 LinkedIn: https://www.linkedin.com/in/abin-bijoy-8b71201a6/
-GitHub: https://github.com/Abin4321
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
